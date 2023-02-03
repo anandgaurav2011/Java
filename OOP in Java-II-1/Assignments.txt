@@ -1,0 +1,21 @@
+1. Model Date entity having data members as dd,mm,yy. 
+	Include the functionality for showDate and use this class for 
+	creating object from main method.
+
+2. Add Default, Parameterised, Copy constructor. 
+   Create objects using all the constructors.
+
+3. Create a class called Box to maintain height, width and depth. 
+    Also write a function which calculates volume of the box. 
+	Add default constructor, full parameterised constructor and 
+	parameterised constructor for creating object having 
+	same length, breadth and depth.
+	Create the object and display calculated volume.
+
+4. Create a class Point having data members as x, y (co-ordinates). 
+	Add appropriate constructors and method to display 
+	the co-ordinates like [10,20]
+5. Create Complex class with data member real and imaginary.   
+1. Define display method which print complex number like  3x+5i.
+make provision to display appropriate result if imaginary part is negitive.
+6. Create a class Account which maintains information about accno and balance.Implement all types of  constructors and display method which displays information about acco
