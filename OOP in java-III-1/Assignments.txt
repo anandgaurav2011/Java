@@ -1,0 +1,20 @@
+1. Create a class Account which maintains information about accno and balance. Add appropriate constructors and display method which displays information about account.
+
+2.Add the static variable as int_rate(float), initialize in the static block. Add the static method updateIntRate() for updating existing int_rate. Display the balance with interest calculated as per int_rate. Modify int_rate and show the balance with int_rate.
+
+3. Create a class named Book to maintain information about bookid, price(float). Add the method to display information about the book. create the book object . Value of id should be assigned on the basis of no of book objects and call its display method. Add default consructor and parameterised constructor which accepts only the price.
+
+4. Modify the Date class to maintain information about the count od Date objects created. Display the count after each Date object created.
+
+5. Create array of 5 integers and assign some values. Find out the max, min and average of this array.
+
+6. Create 3*3 array for storing integers. Create single dimensional arrays to maintain rowwise sum and columnwise sum of the 2d array.
+
+7. Create a class person storing name and birthdate of the person (for    storing birthdate   use user defined date class). Display information    about person using display method. Prevent NullPointerException.
+
+8. Create a class Address having data members as area, city and pincode   (all are strings). Add appropriate constructors and display method.    Create a class Customer having data members as emailid and address.    Add the method for display.
+
+9. Create class Line having data members as Start Point and End Point.      Add appropriate constructors and display method which should display    about start point and end point. 
+
+10. Create array of 3  boxes. Display volume calculated for each box. Use    class Box which is already created.
+
