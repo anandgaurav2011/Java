@@ -1,0 +1,18 @@
+1.	Create a class Emp inheriting from Person. 
+	Add extra state like empid, salary and override method display in Emp. 
+	Call display method for Person object and Emp object.
+	
+2.	Create a class Customer having emailid and name.
+	Create a subclass RegCustomer by adding data member as reg_no. 
+	Accept the type of the customer from user and accordingly accept the 
+	information from the user.
+	Write method giveDiscount(float price) in Customer and RegCustomer which needs input
+	parameter as shopping price. 
+	Give no discount to Customer but give 5% discount RegCustomer and display the 
+	final price.
+	
+3.	Create ColorPoint class extending from class Point.
+	Add the data member as color(String) and static data member as colors(String []).
+	In the parameterised constructor compare the color with array elements, 
+	if it is equal to any of the element assign the value else assign "white" color value.
+	Create the instance and verify.
