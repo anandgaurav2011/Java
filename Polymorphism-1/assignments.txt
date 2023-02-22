@@ -1,0 +1,13 @@
+  1.  Override toString() methd in Person, Emp and Date and check the output by printing Emp object.
+    2.Extend above person hierarchy further to create specialized types of  Emp like SalesManager(target,incentive), Programmer(extra_hours,charges_per_hour) and Admin(bonus). Create method calSalary() in Emp and override this method in Emp hierarchy. Create array of all different types of employees and call their calSalary() method and display the total salary.
+    3.Create subclasse from Book class as EBook and PaperBook. In EBook give discount (as mentioned below) on the original cost and for PaperBook add delivery charges(as mentioned below). Add the method calculateCost() in all the classes.
+    if the cost is in the specified range, add following discount
+                       <=500  -   2%
+    >500 and <=1000   -   5%
+    >1000 and <=5000  -   7%
+    if the cost is in the specified range, add following delivery charges
+                        <=500  -   7%
+    >500 and <=1000   -   5%
+    >1000 and <=5000  -   2%
+    Create array of 5 books. Accept type of the book and accordingly information about 5 books and call calCost() method.
+
