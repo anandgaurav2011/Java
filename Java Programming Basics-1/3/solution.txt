@@ -1,0 +1,1 @@
+Remove the public keyword of class from the source file and save it with different        name. After compilation observe the name of class file created.
